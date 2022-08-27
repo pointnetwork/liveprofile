@@ -167,6 +167,8 @@ user_pref('startup.homepage_override_url', '');
 user_pref('network.proxy.allow_hijacking_localhost', true);
 user_pref('browser.fixup.domainsuffixwhitelist.z', true);
 user_pref('browser.fixup.domainsuffixwhitelist.point', true);
+user_pref('browser.fixup.domainsuffixwhitelist.sol', true);
+user_pref('browser.fixup.domainsuffixwhitelist.eth', true);
 user_pref('browser.shell.checkDefaultBrowser', false);
 user_pref('app.normandy.first_run', false);
 user_pref('browser.laterrun.enabled', true);
